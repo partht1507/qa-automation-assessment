@@ -12,7 +12,7 @@
 1. **Open a terminal** and navigate to the project root (where `telus-qa-test-parth-thakkar.sln` is located):
 
    ```bash
-   cd /path/to/telus-qa-test-parth-thakkar
+   cd /path/to/qa-automation-assessment
    ```
 
 2. **Restore NuGet packages**:
