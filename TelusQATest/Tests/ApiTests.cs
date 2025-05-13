@@ -1,10 +1,4 @@
-// ApiAutomationSolution.cs
-using NUnit.Framework;
 using RestSharp;
-using System;
-using System.IO;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace ApiAutomationSolution
 {
