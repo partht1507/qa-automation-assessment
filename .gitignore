@@ -1,0 +1,48 @@
+# Build outputs
+TelusQATest/bin/
+TelusQATest/obj/
+TelusQATest/TestResults/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userprefs
+*.vcxproj.user
+
+# Rider files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+.packages/
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio cache files
+*.dbmdl
+*.cache
+*.xml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test result reports
+*.trx
+*.html
+
