@@ -34,7 +34,7 @@
    ```
 
    - This will execute both the `SauceDemoTests` (UI) in Firefox and the `ApiAutomationTests` (API).
-   - Test results will be saved in `test_results.trx`.
+   - Test results will be saved in `TestResults/test_results.html`.
 
 5. **Optional: Run only UI or API tests**:
 
@@ -55,7 +55,7 @@ After running the tests, you can generate and view an HTML report:
 
 ```bash
 dotnet test TelusQATest/TelusQATest.csproj \
-  --logger "html;LogFileName=TestResults.html"
+  --logger "html;LogFileName=test_results.html"
   ```
 
-### Open TestResults/TestResults.html in your browser.
+### Open TestResults/test_results.html in your browser.
